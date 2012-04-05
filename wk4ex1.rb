@@ -4,15 +4,15 @@ class Dog
   end
 
   def bark
-    puts 'Woof!'
+    "#{@name} says 'Woof!'"
   end
 
   def eat
-    puts 'I want steak!'
+    'I want steak!'
   end
 
   def chase_cat
-   puts 'There goes a cat!'
+   'There goes a cat!'
   end
 end
 
